@@ -1,2 +1,7 @@
 tasks:
   - init: pip3 install -r requirements.txt
+  
+vscode:
+  extensions:
+    - almenon.arepl@1.0.20:Uu7lIOwyLgmNWpTwCl/iqQ==
+    - littlefoxteam.vscode-python-test-adapter@0.3.16:tZ/6xOSSdKUaq6JCUVkD+A==
